@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>A Pen by  Vishnu</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+  
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+
+<div class="container-fluid">
+  <div class="row bdy">
+    <center>
+  <h1 class="font">MAYA &nbsp; ANGELOU
+    
+    <img class="border smaller" src="https://www.poemhunter.com/i/p/34/6834_b_3778.jpg"></h1></center>
+    
+    <center><h4 class="font"><b>A woman of &nbsp; GRACE<b></h4>
+  </div>
+  </br>
+      <div class="row thumbnail">
+  <div class="col-xs-6"><img src="http://images.dailykos.com/images/327130/story_image/MayaAngelou.jpg" alt="Maya" width="400px">     
+  </div>
+        <div class="cols-xs-8">
+          <p style="font-family:Century;">Marguerite Annie Johnson a.k.a Maya Angelou was a poet and award-winning author known for her acclaimed memoir "I Know Why the Caged Bird Sings" and her numerous poetry and essay collections.</br>
+            </br>
+Occupation:Author, poet, civil rights activist</br>
+Ethnicity:African American</br>
+  Period:1957–2014</br>
+Subject:	Memoir, poetry</br>
+Notable works:	
+"I Know Why the Caged Bird Sings",
+"On the Pulse of Morning"</p>
+      </div></div>
+<center>
+<a href="https://www.http://mayaangelou.com/biography/"><h5 style="font-family:Century"><button class="btn btnn"><b>Interested in knowing more about her??? </b></h5></a>
+<a href="https://www.poemhunter.com/maya-angelou/"><h5 style="font-family:Century"><button class="btn btnn"><b>Interested in her Poems??? </b></h5></a></center>
+        </div>
+  
+  
+</body>
+</html>
